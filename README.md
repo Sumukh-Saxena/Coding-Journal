@@ -19,4 +19,12 @@ A journal of my coding practice in the past, present and future as I evolve my s
 |  |
 | ------- |
 | [2109-adding-spaces-to-a-string](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/2109-adding-spaces-to-a-string) |
+## Math
+|  |
+| ------- |
+| [0593-valid-square](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0593-valid-square) |
+## Geometry
+|  |
+| ------- |
+| [0593-valid-square](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0593-valid-square) |
 <!---LeetCode Topics End-->
