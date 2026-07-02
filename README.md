@@ -6,6 +6,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/2109-adding-spaces-to-a-string) |
 ## Two Pointers
 |  |
@@ -32,4 +33,8 @@ A journal of my coding practice in the past, present and future as I evolve my s
 |  |
 | ------- |
 | [0650-2-keys-keyboard](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0650-2-keys-keyboard) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
