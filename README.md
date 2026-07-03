@@ -23,6 +23,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0172-factorial-trailing-zeroes) |
 | [0593-valid-square](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0593-valid-square) |
 | [0650-2-keys-keyboard](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0650-2-keys-keyboard) |
 ## Geometry
