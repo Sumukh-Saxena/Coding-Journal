@@ -27,6 +27,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0172-factorial-trailing-zeroes) |
+| [0371-sum-of-two-integers](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0371-sum-of-two-integers) |
 | [0593-valid-square](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0593-valid-square) |
 | [0650-2-keys-keyboard](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0650-2-keys-keyboard) |
 ## Geometry
@@ -46,4 +47,8 @@ A journal of my coding practice in the past, present and future as I evolve my s
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0075-sort-colors) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
