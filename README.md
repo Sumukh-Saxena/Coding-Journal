@@ -28,6 +28,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0009-palindrome-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0172-factorial-trailing-zeroes) |
 | [0371-sum-of-two-integers](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0371-sum-of-two-integers) |
 | [0593-valid-square](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0593-valid-square) |
