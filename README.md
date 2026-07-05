@@ -14,6 +14,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0075-sort-colors) |
+| [0633-sum-of-square-numbers](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0633-sum-of-square-numbers) |
 | [2109-adding-spaces-to-a-string](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/2109-adding-spaces-to-a-string) |
 ## String
 |  |
@@ -29,6 +30,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 | [0172-factorial-trailing-zeroes](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0172-factorial-trailing-zeroes) |
 | [0371-sum-of-two-integers](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0371-sum-of-two-integers) |
 | [0593-valid-square](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0593-valid-square) |
+| [0633-sum-of-square-numbers](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0650-2-keys-keyboard) |
 ## Geometry
 |  |
@@ -43,6 +45,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0633-sum-of-square-numbers) |
 ## Sorting
 |  |
 | ------- |
