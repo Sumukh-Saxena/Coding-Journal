@@ -8,6 +8,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0540-single-element-in-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1288-remove-covered-intervals) |
 | [2109-adding-spaces-to-a-string](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/2109-adding-spaces-to-a-string) |
@@ -44,6 +45,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0650-2-keys-keyboard](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0650-2-keys-keyboard) |
 ## Binary Search
 |  |
