@@ -11,6 +11,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 | [0075-sort-colors](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0189-rotate-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0540-single-element-in-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1331-rank-transform-of-an-array) |
@@ -21,6 +22,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0189-rotate-array) |
 | [0633-sum-of-square-numbers](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0633-sum-of-square-numbers) |
 | [2109-adding-spaces-to-a-string](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/2109-adding-spaces-to-a-string) |
 ## String
@@ -37,6 +39,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 | [0009-palindrome-number](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0189-rotate-array) |
 | [0319-bulb-switcher](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0319-bulb-switcher) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0357-count-numbers-with-unique-digits) |
 | [0371-sum-of-two-integers](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0371-sum-of-two-integers) |
