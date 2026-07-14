@@ -10,6 +10,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 | [0074-search-a-2d-matrix](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0540-single-element-in-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1331-rank-transform-of-an-array) |
@@ -58,6 +59,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0633-sum-of-square-numbers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/2089-find-target-indices-after-sorting-array) |
