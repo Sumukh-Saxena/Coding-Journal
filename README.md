@@ -46,6 +46,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 | [0593-valid-square](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0593-valid-square) |
 | [0633-sum-of-square-numbers](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0650-2-keys-keyboard) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Geometry
 |  |
@@ -101,4 +102,8 @@ A journal of my coding practice in the past, present and future as I evolve my s
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0357-count-numbers-with-unique-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
