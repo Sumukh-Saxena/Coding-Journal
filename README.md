@@ -22,6 +22,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 | [2109-adding-spaces-to-a-string](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/2109-adding-spaces-to-a-string) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3895-count-digit-appearances](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3895-count-digit-appearances) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3895-count-digit-appearances](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3895-count-digit-appearances) |
 ## Geometry
 |  |
 | ------- |
