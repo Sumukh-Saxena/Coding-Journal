@@ -104,6 +104,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0206-reverse-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -132,4 +133,8 @@ A journal of my coding practice in the past, present and future as I evolve my s
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0624-maximum-distance-in-arrays) |
 | [0781-rabbits-in-forest](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0781-rabbits-in-forest) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
