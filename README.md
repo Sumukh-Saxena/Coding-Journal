@@ -29,6 +29,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 | [0075-sort-colors](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0189-rotate-array) |
 | [0633-sum-of-square-numbers](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0633-sum-of-square-numbers) |
+| [0876-middle-of-the-linked-list](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0876-middle-of-the-linked-list) |
 | [2109-adding-spaces-to-a-string](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/2109-adding-spaces-to-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -140,6 +141,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0876-middle-of-the-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
