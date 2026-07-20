@@ -28,6 +28,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0189-rotate-array) |
 | [0633-sum-of-square-numbers](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0876-middle-of-the-linked-list) |
@@ -112,6 +113,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0141-linked-list-cycle) |
 | [0781-rabbits-in-forest](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0781-rabbits-in-forest) |
 | [1331-rank-transform-of-an-array](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1331-rank-transform-of-an-array) |
 ## Matrix
@@ -143,6 +145,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0876-middle-of-the-linked-list) |
