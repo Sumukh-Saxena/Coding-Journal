@@ -144,6 +144,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0206-reverse-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0876-middle-of-the-linked-list) |
 ## Monotonic Stack
 |  |
