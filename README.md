@@ -15,6 +15,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 | [0540-single-element-in-a-sorted-array](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0540-single-element-in-a-sorted-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0624-maximum-distance-in-arrays) |
 | [0781-rabbits-in-forest](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0781-rabbits-in-forest) |
+| [1260-shift-2d-grid](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -41,6 +42,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1260-shift-2d-grid) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2109-adding-spaces-to-a-string](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/2109-adding-spaces-to-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -116,6 +118,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0074-search-a-2d-matrix) |
+| [1260-shift-2d-grid](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1260-shift-2d-grid) |
 ## Backtracking
 |  |
 | ------- |
