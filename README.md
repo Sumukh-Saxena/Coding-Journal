@@ -61,6 +61,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 | [0633-sum-of-square-numbers](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0650-2-keys-keyboard) |
 | [0781-rabbits-in-forest](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0781-rabbits-in-forest) |
+| [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
