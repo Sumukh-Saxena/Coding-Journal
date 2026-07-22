@@ -37,12 +37,14 @@ A journal of my coding practice in the past, present and future as I evolve my s
 ## String
 |  |
 | ------- |
+| [0640-solve-the-equation](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0640-solve-the-equation) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2109-adding-spaces-to-a-string](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/2109-adding-spaces-to-a-string) |
 ## Simulation
 |  |
 | ------- |
+| [0640-solve-the-equation](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0640-solve-the-equation) |
 | [1260-shift-2d-grid](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1260-shift-2d-grid) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2109-adding-spaces-to-a-string](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/2109-adding-spaces-to-a-string) |
@@ -59,6 +61,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 | [0371-sum-of-two-integers](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0371-sum-of-two-integers) |
 | [0593-valid-square](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0593-valid-square) |
 | [0633-sum-of-square-numbers](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0633-sum-of-square-numbers) |
+| [0640-solve-the-equation](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0640-solve-the-equation) |
 | [0650-2-keys-keyboard](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0650-2-keys-keyboard) |
 | [0781-rabbits-in-forest](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0781-rabbits-in-forest) |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
