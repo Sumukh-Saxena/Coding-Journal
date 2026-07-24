@@ -35,6 +35,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 | [0633-sum-of-square-numbers](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0876-middle-of-the-linked-list) |
 | [2109-adding-spaces-to-a-string](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/2109-adding-spaces-to-a-string) |
+| [2938-separate-black-and-white-balls](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/2938-separate-black-and-white-balls) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -43,6 +44,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2109-adding-spaces-to-a-string](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/2109-adding-spaces-to-a-string) |
+| [2938-separate-black-and-white-balls](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/2938-separate-black-and-white-balls) |
 ## Simulation
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 | [0624-maximum-distance-in-arrays](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0624-maximum-distance-in-arrays) |
 | [0781-rabbits-in-forest](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0781-rabbits-in-forest) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2938-separate-black-and-white-balls](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/2938-separate-black-and-white-balls) |
 ## Linked List
 |  |
 | ------- |
