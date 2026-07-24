@@ -22,6 +22,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/2109-adding-spaces-to-a-string) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3895-count-digit-appearances](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3895-count-digit-appearances) |
@@ -82,6 +83,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0357-count-numbers-with-unique-digits) |
 | [0650-2-keys-keyboard](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0650-2-keys-keyboard) |
+| [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 ## Binary Search
 |  |
 | ------- |
