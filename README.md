@@ -95,6 +95,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 | [0035-search-insert-position](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0278-first-bad-version](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0633-sum-of-square-numbers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -169,4 +170,8 @@ A journal of my coding practice in the past, present and future as I evolve my s
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
