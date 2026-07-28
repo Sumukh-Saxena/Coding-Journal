@@ -48,6 +48,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2109-adding-spaces-to-a-string](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/2109-adding-spaces-to-a-string) |
 | [2938-separate-black-and-white-balls](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/2938-separate-black-and-white-balls) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Simulation
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 | [1331-rank-transform-of-an-array](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
@@ -183,4 +185,8 @@ A journal of my coding practice in the past, present and future as I evolve my s
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
