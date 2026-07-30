@@ -48,6 +48,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2109-adding-spaces-to-a-string](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/2109-adding-spaces-to-a-string) |
 | [2938-separate-black-and-white-balls](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/2938-separate-black-and-white-balls) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Simulation
 |  |
@@ -75,6 +76,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 | [0781-rabbits-in-forest](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0781-rabbits-in-forest) |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -166,6 +168,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 | [0781-rabbits-in-forest](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0781-rabbits-in-forest) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2938-separate-black-and-white-balls](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/2938-separate-black-and-white-balls) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Linked List
 |  |
 | ------- |
