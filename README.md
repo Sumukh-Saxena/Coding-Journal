@@ -17,6 +17,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 | [0624-maximum-distance-in-arrays](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0628-maximum-product-of-three-numbers) |
 | [0781-rabbits-in-forest](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0781-rabbits-in-forest) |
+| [0877-stone-game](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1331-rank-transform-of-an-array) |
@@ -74,6 +75,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 | [0640-solve-the-equation](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0640-solve-the-equation) |
 | [0650-2-keys-keyboard](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0650-2-keys-keyboard) |
 | [0781-rabbits-in-forest](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0781-rabbits-in-forest) |
+| [0877-stone-game](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0877-stone-game) |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -93,6 +95,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0357-count-numbers-with-unique-digits) |
 | [0650-2-keys-keyboard](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0650-2-keys-keyboard) |
+| [0877-stone-game](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0877-stone-game) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 ## Binary Search
 |  |
@@ -192,4 +195,8 @@ A journal of my coding practice in the past, present and future as I evolve my s
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
