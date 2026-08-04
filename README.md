@@ -28,6 +28,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3731-find-missing-elements](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3895-count-digit-appearances](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3895-count-digit-appearances) |
 ## Two Pointers
@@ -119,6 +120,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
@@ -144,6 +146,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 | [0141-linked-list-cycle](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0141-linked-list-cycle) |
 | [0781-rabbits-in-forest](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0781-rabbits-in-forest) |
 | [1331-rank-transform-of-an-array](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1331-rank-transform-of-an-array) |
+| [3731-find-missing-elements](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
 | ------- |
