@@ -77,6 +77,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 | [0650-2-keys-keyboard](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0650-2-keys-keyboard) |
 | [0781-rabbits-in-forest](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0781-rabbits-in-forest) |
 | [0877-stone-game](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0877-stone-game) |
+| [0887-super-egg-drop](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0887-super-egg-drop) |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -97,6 +98,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 | [0357-count-numbers-with-unique-digits](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0357-count-numbers-with-unique-digits) |
 | [0650-2-keys-keyboard](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0650-2-keys-keyboard) |
 | [0877-stone-game](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0877-stone-game) |
+| [0887-super-egg-drop](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0887-super-egg-drop) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 ## Binary Search
 |  |
@@ -108,6 +110,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 | [0278-first-bad-version](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0633-sum-of-square-numbers) |
+| [0887-super-egg-drop](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0887-super-egg-drop) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
