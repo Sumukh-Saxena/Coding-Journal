@@ -18,6 +18,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 | [0628-maximum-product-of-three-numbers](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0628-maximum-product-of-three-numbers) |
 | [0781-rabbits-in-forest](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0781-rabbits-in-forest) |
 | [0877-stone-game](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0877-stone-game) |
+| [1054-distant-barcodes](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1054-distant-barcodes) |
 | [1260-shift-2d-grid](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1331-rank-transform-of-an-array) |
@@ -118,6 +119,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 | ------- |
 | [0075-sort-colors](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0628-maximum-product-of-three-numbers) |
+| [1054-distant-barcodes](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1054-distant-barcodes) |
 | [1288-remove-covered-intervals](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -150,6 +152,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0141-linked-list-cycle) |
 | [0781-rabbits-in-forest](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0781-rabbits-in-forest) |
+| [1054-distant-barcodes](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1054-distant-barcodes) |
 | [1331-rank-transform-of-an-array](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1331-rank-transform-of-an-array) |
 | [3731-find-missing-elements](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3731-find-missing-elements) |
 ## Matrix
@@ -177,6 +180,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0624-maximum-distance-in-arrays) |
 | [0781-rabbits-in-forest](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0781-rabbits-in-forest) |
+| [1054-distant-barcodes](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1054-distant-barcodes) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2938-separate-black-and-white-balls](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/2938-separate-black-and-white-balls) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -198,10 +202,12 @@ A journal of my coding practice in the past, present and future as I evolve my s
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1054-distant-barcodes](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1054-distant-barcodes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
 | ------- |
+| [1054-distant-barcodes](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1054-distant-barcodes) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Game Theory
 |  |
