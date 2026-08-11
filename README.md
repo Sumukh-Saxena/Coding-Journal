@@ -27,6 +27,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/2109-adding-spaces-to-a-string) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3731-find-missing-elements](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3731-find-missing-elements) |
@@ -124,6 +125,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 | [1331-rank-transform-of-an-array](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3731-find-missing-elements) |
@@ -154,6 +156,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 | [0781-rabbits-in-forest](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0781-rabbits-in-forest) |
 | [1054-distant-barcodes](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1054-distant-barcodes) |
 | [1331-rank-transform-of-an-array](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1331-rank-transform-of-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
