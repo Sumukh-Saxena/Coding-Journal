@@ -31,6 +31,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3895-count-digit-appearances](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3895-count-digit-appearances) |
@@ -137,6 +138,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0371-sum-of-two-integers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Enumeration
 |  |
 | ------- |
