@@ -26,6 +26,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/2109-adding-spaces-to-a-string) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/2206-divide-array-into-equal-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -140,6 +141,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0371-sum-of-two-integers) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/2206-divide-array-into-equal-pairs) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Enumeration
@@ -163,6 +165,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 | [0781-rabbits-in-forest](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0781-rabbits-in-forest) |
 | [1054-distant-barcodes](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1054-distant-barcodes) |
 | [1331-rank-transform-of-an-array](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1331-rank-transform-of-an-array) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/2206-divide-array-into-equal-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -221,6 +224,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 |  |
 | ------- |
 | [1054-distant-barcodes](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1054-distant-barcodes) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/2206-divide-array-into-equal-pairs) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Game Theory
 |  |
