@@ -55,6 +55,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 | [0640-solve-the-equation](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0640-solve-the-equation) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1927-sum-game](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1927-sum-game) |
 | [2109-adding-spaces-to-a-string](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/2109-adding-spaces-to-a-string) |
 | [2938-separate-black-and-white-balls](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/2938-separate-black-and-white-balls) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -88,6 +89,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 | [0877-stone-game](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0877-stone-game) |
 | [0887-super-egg-drop](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0887-super-egg-drop) |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
+| [1927-sum-game](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -198,6 +200,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 | [0781-rabbits-in-forest](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0781-rabbits-in-forest) |
 | [1054-distant-barcodes](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1054-distant-barcodes) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1927-sum-game](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1927-sum-game) |
 | [2938-separate-black-and-white-balls](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/2938-separate-black-and-white-balls) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Linked List
@@ -230,6 +233,7 @@ A journal of my coding practice in the past, present and future as I evolve my s
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/Sumukh-Saxena/Coding-Journal/tree/master/1927-sum-game) |
 ## Sliding Window
 |  |
 | ------- |
